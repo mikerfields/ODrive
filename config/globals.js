@@ -7,8 +7,8 @@ class Globals extends EventEmitter {
     this.win = null;
     this.db = null;
     this.args = null;
-    this.api = "985525764653-m9dr93l4sme1ggp89fl28fopjas3equc.apps.googleusercontent.com";
-    this.secret = "did-JgyKIPUtVU2J5Hi2a2ES";
+    this.api = "1096518343410-uts2i64jqmbsn3lcgvdbe0uvjgqfp90l.apps.googleusercontent.com";
+    this.secret = "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";
     this.port = process.env.port || 16409;
     this.connected = true;
     this.syncing = false;
